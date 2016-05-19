@@ -74,5 +74,9 @@ y <- x + rnorm(100)
 plot(x,y,xlab="smile", ylab="happiness", main="Relation b/w laughing and happiness" )
 
 ```
+links
+=======================================================
 
+[application](https://amitms.shinyapps.io/Shiny_Application_and_Reproducible_Pitch/)
 
+[source code](https://github.com/amitms/Shiny_Application_and_Reproducible_Pitch)

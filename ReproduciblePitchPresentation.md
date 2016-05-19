@@ -1,14 +1,19 @@
-appDocumentation
+Reproducible Pitch Presentation.Rpres
 ========================================================
 author: Amit Singh
 date: 19/05/2016
 
 Introduction
 ========================================================
+
 This application is developed using R Programming 
 language in R Studio's IDE. The application
 used shiny environment under R studio for interface
-desigening.
+desigening. This is a fairly good app that can be used to 
+get some good suggestions about music and movies.
+I'll be updating this app in future and will deploy
+some algorithm combined with a good database to
+provide better and wide range of suggestions.
 
 Main uses of application are as follows:
 
@@ -41,7 +46,6 @@ Below is the list of moods you can enter:
 - pleased
  
 Below is the list of genre you can enter:
-
 - action
 - musicals
 - biopic
@@ -49,7 +53,6 @@ Below is the list of genre you can enter:
 - romance
 
 ========================================================
-
 - animation
 - science fiction
 - cult
@@ -63,10 +66,19 @@ Below is the list of genre you can enter:
 - westerns
 - horror
 
-
 Slide With Code
 ========================================================
 
-All the codes are present at my github repo
+```r
+x <- rnorm(100) 
+y <- x + rnorm(100)
+plot(x,y,xlab="smile", ylab="happiness", main="Relation b/w laughing and happiness" )
+```
 
+![plot of chunk unnamed-chunk-1](ReproduciblePitchPresentation-figure/unnamed-chunk-1-1.png)
+links
+=======================================================
 
+[application](https://amitms.shinyapps.io/Shiny_Application_and_Reproducible_Pitch/)
+
+[source code](https://github.com/amitms/Shiny_Application_and_Reproducible_Pitch)
