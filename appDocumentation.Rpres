@@ -1,11 +1,10 @@
 appDocumentation
 ========================================================
-author: Mohit Shukla
-date: 24/05/2015
+author: Amit Singh
+date: 19/05/2016
 
 Introduction
 ========================================================
-
 This application is developed using R Programming 
 language in R Studio's IDE. The application
 used shiny environment under R studio for interface
